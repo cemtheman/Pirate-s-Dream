@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a22c88b0dbe4a58498b984697f4c8409, type: 3}
+  m_Name: Event_FloatingChest
+  m_EditorClassIdentifier: Assembly-CSharp::PiratesDream.Data.EncounterEventData
+  eventId: 
+  eventTitle: "Suda Y\xFCzeyde Parlayan Nesne"
+  type: 0
+  eventDescription: "Seyir halindeyken g\xF6zc\xFC kulesi rotan\u0131n az ilerisinde,
+    \xFCzerine yosunlar yap\u0131\u015Fm\u0131\u015F tahta bir sand\u0131k fark etti."
+  eventImage: {fileID: 0}
+  optionA:
+    optionText: "Sand\u0131\u011F\u0131 g\xFCverteye \xE7ek."
+    resultText: "Sand\u0131\u011F\u0131n i\xE7inden eski bir harita par\xE7as\u0131
+      ve bir miktar alt\u0131n \xE7\u0131kt\u0131!"
+    goldReward: 150
+    hullDamage: 0
+    unlockedClue:
+      clueId: 
+      clueTitle: 
+      clueDescription: 
+      isUnlocked: 0
+  optionB:
+    optionText: Tuzak olabilir, riske girmeden yola devam et.
+    resultText: "Sand\u0131\u011F\u0131 arkada b\u0131rak\u0131p rotan\u0131zda ilerlemeye
+      devam ettiniz."
+    goldReward: 0
+    hullDamage: 0
+    unlockedClue:
+      clueId: 
+      clueTitle: 
+      clueDescription: 
+      isUnlocked: 0
