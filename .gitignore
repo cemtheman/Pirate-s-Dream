@@ -12,3 +12,5 @@
 *.user
 *.userprefs
 .DS_Store
+/.vs/
+/Pirate's Dream/
